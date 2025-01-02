@@ -1,3 +1,3 @@
 ﻿# Problem Solving
 
-- This Repo is for LeetCode problems' solutions in Python
+- This Repo is for LeetCode problems' solutions
